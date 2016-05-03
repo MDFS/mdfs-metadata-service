@@ -3,7 +3,7 @@ package mdservice
 import (
 	"errors"
 	"fmt"
-	"github.com/CPSSD/MDFS/utils"
+	"github.com/MDFS/MDFS/utils"
 	"net"
 	"reflect"
 	"strings"
